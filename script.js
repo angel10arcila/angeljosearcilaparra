@@ -33,15 +33,22 @@ const mediaFiles = [
      },
      
      {
-         name: "Lamborghini salsa - Ángel José Arcila Parra",
-         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Lamborghini V6 - versión salsa - Ángel José Arcila Parra .mp3",
+         name: "El Reloj - Ángel José Arcila Parra",
+         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/El reloj - (2) LyM Ángel José Arcila Parra.mp3",
          type: "audio"
      },
      
     { 
-        name:"Lamborghini Huracán",
-        url:"https://videolamborghini-meride-tv.akamaized.net/video/folder1/1668513297lamborghini_bridge_long_cut_mix_web_20221111_CLEAN_2_lamborghini/1668513297lamborghini_bridge_long_cut_mix_web_20221111_CLEAN_2_lamborghini_1219.m8",
-        type:"audio"
+         name: "El Reloj - Ángel José Arcila Parra",
+         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/El reloj - (2) LyM Ángel José Arcila Parra.mp3",
+         type: "audio"
+    },
+
+     
+    { 
+         name: "El Reloj - Ángel José Arcila Parra",
+         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/El reloj - (2) LyM Ángel José Arcila Parra.mp3",
+         type: "audio"
     },
     
    
