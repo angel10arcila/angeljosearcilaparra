@@ -1,265 +1,293 @@
-<html><head><base href="/">
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Venearci - Streaming Platform</title>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/plyr/3.7.8/plyr.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-<script src="https://cdn.dashjs.org/latest/dash.all.min.js"></script>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/plyr/3.7.8/plyr.css">
-<link rel="stylesheet" href="style.css">
+<html><head>
+<title>Venearci</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 :root {
-    --primary-color: #032F60;
-    --accent-color: #ff6600;
-    --dark-bg: #0a0a0a;
-    --text-color: #ffffff;
-}
-
-* {
-    margin: 2;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Arial', sans-serif;
+  --primary: #032F60;
+  --secondary: #000080;
+  --accent: #ff6600;
+  --text: #ecf0f1;
 }
 
 body {
-    background: var(--dark-bg);
-    color: var(--text-color);
-    width-max: 100%;
-}
-
-.navbar {
-    background: var(--primary-color);
-    padding: 1rem;
-    position: fixed;
-    width: 100%;
-    top: 0;
-    z-index: 1000;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.logo {
-    color: var(--text-color);
-    font-size: 2rem;
-    font-weight: bold;
-    text-decoration: none;
-    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
-}
-
-.nav-links {
-    display: flex;
-    gap: 20px;
-}
-
-.nav-links a {
-    color: var(--text-color);
-    text-decoration: none;
-    font-weight: 500;
-    transition: color 0.3s;
-}
-
-.nav-links a:hover {
-    color: var(--accent-color);
-    
-}}
-.content {
-    margin-top: 80px;
-    padding: 200px;
-}}
-
-
-.hero-section {
-    position: relative;
-    height: 60vh;
-    overflow: hidden;
-    margin-bottom: 40px;
-}
-
-.hero-video {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-}
-
-.hero-overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: linear-gradient(to top, var(--dark-bg), transparent);
-    display: flex;
-    align-items: flex-end;
-    padding: 10px;
-}
-
-.hero-content {
-    max-width: 600px; 
-}
-
-.hero-title {
-    font-size: 3rem;
-    margin-bottom: 1rem;
-}
-
-.hero-description {
-    font-size: 1.2rem;
-    margin-bottom: 2rem;
-}
-
-.watch-button {
-    background: var(--accent-color);
-    color: white;
-    padding: 12px 24px;
-    border: none;
-    border-radius: 25px;
-    font-size: 1.1rem;
-    cursor: pointer;
-    transition: transform 0.3s;
-}
-
-.watch-button:hover {
-    transform: scale(1.05);
-}
-
-}
-.categories {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: 30px;
-    padding: 20px;
-}
-
-.category-card {
-    background: rgba(255,255,255,0.1);
-    border-radius: 10px;
-    overflow: Hidden;
-    transition: all 0.3s;
-    cursor: pointer;
-    position: relative;
-}
-
-.category-card:hover {
-    transform: scale(1.05);
-    box-shadow: 0 0 20px rgba(255,102,0,0.3);
-}
-
-.category-image {
-    width: 100%;
-    height: 180px;
-     background: var(--primary-color);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 1.5rem;
-    font-weight: bold;
-    color: var(--text-color);
-    background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3l7PARdbHxZ9fRrhlz0QXbWXiGjEwGpF_7l44XYd0AL_iLwFZjDk77dZqroRzM0uBQMKbHcEui_XpHmpBLFb57GzgzaDF6sR1CUIAi-krT7tjIfa3KeMBLnZcqdnx68CVxf3cdNpsCDHrjV8J7JJ1S8PnMtPduaQFDdG2s03_QmTUAimpQ6epjFpXTHt6/s1600/Black%20&amp;%20Orange%20Simple%20Welcome%20To%20My%20Channel%20Youtube%20Intro_20240304_174555_0000.jpg"); 
-    margin: 0;
-}
-
-.category-title {
-    padding: 15px;
-    text-align: center;
-    font-weight: bold;
-    background: rgba(3,47,96,0.8);
-    margin: 0;
+  margin: 0;
+  padding: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: var(--primary);
+  color: var(--text);
 }
 
 .player-container {
-    max-width: 1200px;
-    margin: 20px auto;
-    background: #000;
-    border-radius: 0px;
-    overflow: hidden;
-    box-shadow: 0 0 30px rgba(255,102,0,0.2);
+  max-width: 100%;
+  max-height: 200%;
+  margin: 34 auto;
+     background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaauPq_PuHcoZJ7-0HW1mE0J1X5Lgucj3UcHm8V27l_qeDj13elBYHLYxsG_2-EtDfglRfM5uQQ9Qv2quyXtV5OzQMEGkxzqPQjU0FPRwM5n0yT3AJKPr0Thy_HnQC1V4HUakpeuTXXwHb6VEWeUchX3njRH7mCIUUH9Vmnqm4zfL_ESnt65RBzs2P-epK/s1600/Black%20&amp;%20Orange%20Simple%20Welcome%20To%20My%20Channel%20Youtube%20Intro_20240304_192908_0000.jpg"); 
+  border-radius: 10px;
+  border-margin: 10px;
+  margin-border: 10px;
+  border-color: var(--secondary)
+  padding: 20px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 }
 
-.url-example {
-    background: linear-gradient(135deg, var(--primary-color), var(--accent-color));
-    color: white;
-    padding: 15px;
-    margin: 20px 0;
-    border-radius: 10px;
-    font-family: monospace;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+.video-container {
+  position: relative;
+  width: 100%;
+  background-image: url("/hura_tecnica_ar_01_m.webp"); 
+  border-radius: 0px;
+  overflow: hidden;
+  margin-bottom: 20px;
 }
 
-.url-example code {
-    display: block;
-    margin: 10px 0;
-    padding: 10px;
-    background: rgba(0,0,0,0.3);
-    border-radius: 5px;
+video {
+  width: 100%;
+  border-radius: 0px;
+  margin: 0px 0;
+  padding: 0px 0px;
+  
 }
 
-.plyr--video {
-    border-radius: 0px;
+.playlist {
+  border: 10px;
+  background-image: url("/hura_tecnica_ar_01_m.webp");        
+  border-radius: 10px;
+  padding: 10px;
+  margin: 5px;
 }
 
-.plyr--full-ui input[type=range] {
-    color: var(--accent-color);
+.playlist-item {
+  padding: 10px 15px;
+  margin: 5px 0;
+  background: rgba(220,220,220,0.1); 
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
 }
 
-.plyr__control--overlaid {
-    background: var(--accent-color);
+.playlist-item:hover {
+   background: var(--primary);
+  transform: translateX(5px);
 }
 
-.plyr__control:hover {
-    background: var(--primary-color);
+.playlist-item.active {
+  background: var(--accent);
+  align-items: center;
 }
 
-@media (max-width: 1768px) {
-    .nav-links {-
-        display: none;
-    }
-    
-    .categories {
-        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-   } 
+.controls {
+  display: flex;
+  gap: 29px;
+  margin: 7px 0;
+  align-items: center;
+}
+
+button {
+  background: var(--accent);
+  border: none;
+  padding: 10px 21.5px;
+  border-radius: 5px;
+  color: var(--text);
+  cursor: pointer;
+  transition: all 0.3s ease;
+  align-items: center;
+}
+
+button:hover {
+   background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3l7PARdbHxZ9fRrhlz0QXbWXiGjEwGpF_7l44XYd0AL_iLwFZjDk77dZqroRzM0uBQMKbHcEui_XpHmpBLFb57GzgzaDF6sR1CUIAi-krT7tjIfa3KeMBLnZcqdnx68CVxf3cdNpsCDHrjV8J7JJ1S8PnMtPduaQFDdG2s03_QmTUAimpQ6epjFpXTHt6/s1600/Black%20&amp;%20Orange%20Simple%20Welcome%20To%20My%20Channel%20Youtube%20Intro_20240304_174555_0000.jpg"); 
+  transform: scale(1.05);
+}
+
+.format-badge {
+  font-size: 0.8em;
+  padding: 3px 8px;
+  background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaauPq_PuHcoZJ7-0HW1mE0J1X5Lgucj3UcHm8V27l_qeDj13elBYHLYxsG_2-EtDfglRfM5uQQ9Qv2quyXtV5OzQMEGkxzqPQjU0FPRwM5n0yT3AJKPr0Thy_HnQC1V4HUakpeuTXXwHb6VEWeUchX3njRH7mCIUUH9Vmnqm4zfL_ESnt65RBzs2P-epK/s1600/Black%20&amp;%20Orange%20Simple%20Welcome%20To%20My%20Channel%20Youtube%20Intro_20240304_192908_0000.jpg"); 
+  border-radius: 3px;
+  margin-left: auto;
 }
 </style>
 </head>
 <body>
-     <nav class="navbar">
-        <a href="https://venearci.com" class="logo">VENEARCI</a>
-        <div class="nav-links">
-            <a href="inicio.html">Inicio</a>
-            <a href="beisbol.html">Beisbol</a>
-            <a href="futbol.html">Fútbol</a>
-        </div>
-    </nav>
 
-    <div class="content">
-        <div class="hero-section">
-            <video class="hero-video" autoplay muted loop poster="/img/ext_mob.webp">
-                <source src="/Lamborghini/huracan.mp4" type="video/m3u8">
-            </video>
-            <div class="hero-overlay">
-                <div class="hero-content">
-                    <h1 class="hero-title">
-                            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4nbcupGU0nqmpJSLgKlUR3R7SgmtBeAyOUC-UPy5M7edq8OxwWWBPOYJwH8sMUMP7pth0v0dm06CBS_rmR47MiPmmTVdp4IBGFiPkfuLSDA5_hoTJoquBR8_0j6NQUgmKgrRDNyxC3TsTmYIPxLj3ldpAvxPJ8tsT2d3wUPc8LcLQ4Z5Cf3lUP_unmqWC/s1600/venearci.png" width="150px" height="150px" alt="Venearci Logo">
-                        Bienvenidos a Venearci Béisbol</h1>
-                    <p class="hero-description">Tu aplicación favorita de <font color="#ff6600">Streaming Deportivo</font>, con un contenido de calidad.</p>
-                    <button class="watch-button">Reproducir</button>
-                </div>
-            </div>
-            
+<div class="player-container">
+    <div class="logo">
+        <center>
+<br>
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4nbcupGU0nqmpJSLgKlUR3R7SgmtBeAyOUC-UPy5M7edq8OxwWWBPOYJwH8sMUMP7pth0v0dm06CBS_rmR47MiPmmTVdp4IBGFiPkfuLSDA5_hoTJoquBR8_0j6NQUgmKgrRDNyxC3TsTmYIPxLj3ldpAvxPJ8tsT2d3wUPc8LcLQ4Z5Cf3lUP_unmqWC/s1600/venearci.png" alt="Venearci Logo" alt="Venearci Logo" width="15%" height="7%">
+   <br><br>
+  </center>
+  <div class="video-container">
+    <video id="mediaPlayer" poster="/img/letrasde.png">
+      Tu navegador no soporta el elemento de video.
+    </video>  
+</center>
+  </div>
   
-              
-               <!-- imagen 1-->  
-               <div class="content">
-        <div class="player-container">
-                 
-             
-            </div><br>
-            
-            <br><br>
-        </div>
-    </div>
+  <div class="playlist" id="playlist">
+    <!-- La playlist se generará dinámicamente -->
+    <center>
+    <button onclick="tv.html" width="100%">
+    <font color="#fff" size="3">
+    Lamborghini - Ángel José Arcila Parra</font></button>
+    
+</center> 
 <center>
-        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4nbcupGU0nqmpJSLgKlUR3R7SgmtBeAyOUC-UPy5M7edq8OxwWWBPOYJwH8sMUMP7pth0v0dm06CBS_rmR47MiPmmTVdp4IBGFiPkfuLSDA5_hoTJoquBR8_0j6NQUgmKgrRDNyxC3TsTmYIPxLj3ldpAvxPJ8tsT2d3wUPc8LcLQ4Z5Cf3lUP_unmqWC/s1600/venearci.png" width="20px" height="20px" alt="Venearci Logo">
-<h6>© venearci 2024</h6></center>
+<marquee direction="rigth" scrollmount="3" scrolldelay="10" bgcolor="#032F60" width="79%" height="2%">VENEARCI APP - AUDIO</marquee></center>
+  </div>
+<center>
+    
+  <div class="controls">
+  <button onclick="previousTrack()">  < </button>
+  <button onclick="playPause()"> play | pause</button>
+  <button onclick="nextTrack()"> > </button>
+  <button onclick="toggleMute()"> mute </button>
+  </center>
+  <center>
+   
+<h6> © venearci 2024</h6>
+
+</center>
+</div>
+
+<script>
+// Configuración de medios predefinidos
+const mediaFiles = [
+
+     {
+         name: "Lamborghini - Ángel José Arcila Parra",
+         url: "/music/Lamborghini - Ángel José Arcila Parra .mp3",
+         type: "audio"
+     },
+       
+     {
+         name: "Lamborghini V2 - Ángel José Arcila Parra",
+         url: "/music/Lamborghini  V2 - Ángel José Arcila Parra .mp3",
+         type: "audio"
+     },
+     
+     {
+         name: "Lamborghini V3 - Ángel José Arcila Parra",
+         url: "/music/Lamborghini V3 - Ángel José Arcila Parra .mp3",
+         type: "audio"
+     },
+     
+     {
+         name: "Lamborghini V4- Ángel José Arcila Parra",
+         url: "/music/Lamborghini V4 - Ángel José Arcila Parra .mp3",
+         type: "audio"
+     },
+     
+     {
+         name: "Lamborghini V5 - Ángel José Arcila Parra",
+         url: "/music/Lamborghini V5 - Ángel José Arcila Parra .mp3",
+         type: "audio"
+     },
+     
+     {
+         name: "Lamborghini salsa - Ángel José Arcila Parra",
+         url: "/music/Lamborghini V6 - version salsa - Ángel José Arcila Parra .mp3",
+         type: "audio"
+     },
+     
+    { 
+        name:"Lamborghini Huracán",
+        url:"https://videolamborghini-meride-tv.akamaized.net/video/folder1/1668513297lamborghini_bridge_long_cut_mix_web_20221111_CLEAN_2_lamborghini/1668513297lamborghini_bridge_long_cut_mix_web_20221111_CLEAN_2_lamborghini_1219.m3u8",
+        type:"Movie"
+    },
+    
+   
+];
+
+let currentTrack = 0;
+const mediaPlayer = document.getElementById('mediaPlayer');
+const playlist = document.getElementById('playlist');
+
+// Inicializar reproductor
+function initPlayer() {
+    // Generar playlist
+    mediaFiles.forEach((media, index) => {
+        const item = document.createElement('div');
+        item.className = 'playlist-item';
+        item.innerHTML = `
+            ${media.name}
+            <span class="format-badge">${media.type.toUpperCase()}</span>
+        `;
+        item.onclick = () => loadMedia(index);
+        playlist.appendChild(item);
+    });
+
+    // Cargar primer medio
+    loadMedia(0);
+}
+
+function loadMedia(index) {
+    currentTrack = index;
+    const media = mediaFiles[index];
+    
+    // Actualizar clase activa en playlist
+    document.querySelectorAll('.playlist-item').forEach((item, i) => {
+        item.classList.toggle('active', i === index);
+    });
+
+    // Cargar medio según tipo
+    if (media.type === 'm3u') {
+        loadM3U(media.url);
+    } else {
+        mediaPlayer.src = media.url;
+        mediaPlayer.play();
+    }
+}
+
+async function loadM3U(url) {
+    try {
+        const response = await fetch(url);
+        const content = await response.text();
+        // Procesar M3U y extraer URLs
+        const urls = content.match(/^(?!#).+$/gm);
+        if (urls && urls.length > 0) {
+            mediaPlayer.src = urls[0];
+            mediaPlayer.play();
+        }
+    } catch (error) {
+        console.error('Error loading M3U:', error);
+    }
+}
+
+function playPause() {
+    if (mediaPlayer.paused) {
+        mediaPlayer.play();
+    } else {
+        mediaPlayer.pause();
+    }
+}
+
+function nextTrack() {
+    const next = (currentTrack + 1) % mediaFiles.length;
+    loadMedia(next);
+}
+
+function previousTrack() {
+    const prev = (currentTrack - 1 + mediaFiles.length) % mediaFiles.length;
+    loadMedia(prev);
+}
+
+function toggleMute() {
+    mediaPlayer.muted = !mediaPlayer.muted;
+}
+
+// Eventos del reproductor
+mediaPlayer.addEventListener('ended', () => {
+    nextTrack();
+});
+
+mediaPlayer.addEventListener('error', (e) => {
+    console.error('Error en la reproducción:', e);
+    nextTrack();
+});
+
+// Inicializar
+initPlayer();
+</script>
+
 </body></html>
