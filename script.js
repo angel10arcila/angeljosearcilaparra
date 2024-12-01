@@ -15,8 +15,8 @@ const mediaFiles = [
      },
      
      {
-         name: "Lamborghini V3 - Ángel José Arcila Parra",
-         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Lamborghini v3 - Ángel José Arcila Parra .mp3",
+         name: "Somos tal para cuál - Ángel José Arcila Parra",
+         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Somos tal para cual - Letra de Ángel José Arcila Parra .mp3",
          type: "audio"
      },
      
