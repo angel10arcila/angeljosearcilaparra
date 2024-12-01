@@ -9,8 +9,8 @@ const mediaFiles = [
      },
        
      {
-         name: "Lamborghini V2 - Ángel José Arcila Parra",
-         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Lamborghini  V2 - Ángel José Arcila Parra .mp3",
+         name: "Tú locura - Ángel José Arcila Parra",
+         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Tú locura - V+ Letra de Ángel José Arcila Parra.mp3",
          type: "audio"
      },
      
