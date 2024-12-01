@@ -40,8 +40,8 @@ const mediaFiles = [
      
     { 
         name:"Lamborghini Huracán",
-        url:"https://videolamborghini-meride-tv.akamaized.net/video/folder1/1668513297lamborghini_bridge_long_cut_mix_web_20221111_CLEAN_2_lamborghini/1668513297lamborghini_bridge_long_cut_mix_web_20221111_CLEAN_2_lamborghini_1219.m3u8",
-        type:"Movie"
+        url:"https://videolamborghini-meride-tv.akamaized.net/video/folder1/1668513297lamborghini_bridge_long_cut_mix_web_20221111_CLEAN_2_lamborghini/1668513297lamborghini_bridge_long_cut_mix_web_20221111_CLEAN_2_lamborghini_1219.m8",
+        type:"audio"
     },
     
    
