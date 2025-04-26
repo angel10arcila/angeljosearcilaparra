@@ -50,6 +50,13 @@ const mediaFiles = [
          url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Noche rara - Letra de Ángel José Arcila Parra.mp3",
          type: "audio"
     },
+
+ 
+    { 
+         name: "Inspirame con tú arte - Ángel José Arcila Parra",
+         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Noche rara - Letra de Ángel José Arcila Parra.mp3",
+         type: "audio"
+    },
     {
          name: "The clock - Ángel José Arcila Parra",
          url: "https://raw.githubusercontent.com/angel10arcila/letraseningles/refs/heads/main/The Clock 1 Letra y Música de Ángel José Arcila Parra .mp3",
