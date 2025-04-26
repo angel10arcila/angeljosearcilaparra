@@ -59,7 +59,7 @@ const mediaFiles = [
   
     { 
          name: "Crece cómo un árbol  - Ángel José Arcila Parra",
-         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Inspirame con tú arte - LyM de Ángel José Arcila Parra.mp3",
+         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Crece cómo un árbol V7 Letra de Ángel José Arcila Parra.mp3",
          type: "audio"
     },
     {
