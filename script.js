@@ -50,7 +50,35 @@ const mediaFiles = [
          url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Noche rara - Letra de Ángel José Arcila Parra.mp3",
          type: "audio"
     },
-    
+         {
+         name: "The clock - Ángel José Arcila Parra",
+         url: "https://raw.githubusercontent.com/angel10arcila/letraseningles/refs/heads/main/The Clock 1 Letra y Música de Ángel José Arcila Parra .mp3",
+         type: "audio"
+     },
+     
+     {
+         name: "The clock - Ángel José Arcila Parra",
+         url: "https://raw.githubusercontent.com/angel10arcila/letraseningles/refs/heads/main/The Clock  2 Letra y Música de Ángel José Arcila Parra..mp3",
+         type: "audio"
+     },
+   
+     {
+         name: "And take it now - Ángel José Arcila Parra",
+         url: "https://raw.githubusercontent.com/angel10arcila/letraseningles/refs/heads/main/And take it now  V1 - Lyrics and music by Ángel José Arcila Parra .mp3",
+         type: "audio"
+     },
+     
+     {
+         name: "Because we are such for that - Ángel José Arcila Parra",
+         url: "https://raw.githubusercontent.com/angel10arcila/letraseningles/refs/heads/main/Because we are such for that V1- Country - Lyrics by Ángel José Arcila Parra .mp3",
+         type: "audio"
+     },
+     
+     {
+         name: "A romantic comedy - Ángel José Arcila Parra",
+         url: "https://raw.githubusercontent.com/angel10arcila/letraseningles/refs/heads/main/_A romantic comedy_ Letra y Música de Ángel José Arcila Parra - Álbum - Debut. (320).mp3",
+         type: "audio"
+     },
    
 ];
 
