@@ -2,6 +2,37 @@
 // Configuración de medios predefinidos
 const mediaFiles = [
 
+         {
+         name: "Venearci music - Ángel José Arcila Parra",
+         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Gigle Venearci Music - Voz de Ángel José Arcila Parra.mp3",
+         type: "audio"
+     },
+     {
+         name: "Halkin - Ángel José Arcila Parra",
+         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Halkin versión 4 - Ángel José Arcila Parra.mp3",
+         type: "audio"
+     },
+     {
+         name: "Venearci music - Ángel José Arcila Parra",
+         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Venearci Music Gigle - Ángel José Arcila Parra.mp3",
+         type: "audio"
+     },
+     {
+         name: "Vamos vinotinto - Ángel José Arcila Parra",
+         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Vamos vinotinto - Ángel José Arcila Parra.mp3",
+         type: "audio"
+     },
+    
+     {
+         name: "Vamos vinotinto (reggaeton)- Ángel José Arcila Parra",
+         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Vamos vinotinto (Reggaeton) - Ángel José Arcila Parra.mp3",
+         type: "audio"
+     },
+     {
+         name: "Tortuguin - Ángel José Arcila Parra",
+         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Tortuguin - Ángel José Arcila Parra.mp3",
+         type: "audio"
+     },
      {
          name: "Lamborghini - Ángel José Arcila Parra",
          url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Lamborghini - Ángel José Arcila Parra .mp3",
