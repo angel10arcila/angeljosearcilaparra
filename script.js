@@ -1,5 +1,4 @@
-  
-// Configuración de medios predefinidos
+  // Configuración de medios predefinidos
 const mediaFiles = [
 
          {
@@ -56,7 +55,12 @@ const mediaFiles = [
          url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Mi mayor tesoro - bachata- Letra de Ángel José Arcila Parra .mp3",
          type: "audio"
      },
-     
+   
+     {
+         name: "Tú  eres mi súper héroe - Ángel José Arcila Parra",
+         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Tu eres mi súper héroe - Bachata Ángel José Arcila Parra.mp3",
+         type: "audio"
+     },
      {
          name: "Una Comedía Romántica - Ángel José Arcila Parra",
          url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Comedia  Romantica v10  - LyM de Ángel José Arcila Parra.mp3",
