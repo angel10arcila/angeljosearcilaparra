@@ -146,7 +146,7 @@ button:hover {
   
 .profile-thumb2 {
       position: absolute;
-      top: 392px; right: 239px;
+      top: 399px; right: 239px;
       width:28px; height: 28px;
       border-radius: 50%;
       box-shadow: 0 2px 8px #0005;
@@ -163,7 +163,7 @@ button:hover {
 
     .profile-thumb3 {
       position: absolute;
-      top: 392px; right: 160px;
+      top: 399px; right: 160px;
       width:28px; height: 28px;
       border-radius: 50%;
       box-shadow: 0 2px 8px #0005;
@@ -180,7 +180,7 @@ button:hover {
 
     .profile-thumb4 {
       position: absolute;
-      top: 392px; right: 199px;
+      top: 399px; right: 199px;
       width:28px; height: 28px;
       border-radius: 50%;
       box-shadow: 0 2px 8px #0005;
@@ -198,7 +198,7 @@ button:hover {
  
     .profile-thumb5 {
       position: absolute;
-      top: 392px; right: 120px;
+      top: 399px; right: 120px;
       width:28px; height: 28px;
       border-radius: 50%;
       box-shadow: 0 2px 8px #0005;
