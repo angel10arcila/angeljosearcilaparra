@@ -143,4 +143,73 @@ button:hover {
       z-index: 2;
       pandding: 20px;
     }
+  
+.profile-thumb2 {
+      position: absolute;
+      top: 392px; right: 239px;
+      width:28px; height: 28px;
+      border-radius: 50%;
+      box-shadow: 0 2px 8px #0005;
+      object-fit: cover;
+      border: 2px solid #transparent;
+      z-index: 2;
+      pandding: 20px;
+    }
     
+.profile-thumb2:hover {
+   background: #fff;
+  transform: scale(1.05);
+}
+
+    .profile-thumb3 {
+      position: absolute;
+      top: 392px; right: 160px;
+      width:28px; height: 28px;
+      border-radius: 50%;
+      box-shadow: 0 2px 8px #0005;
+      object-fit: cover;
+      border: 2px solid #transparent;
+      z-index: 2;
+      pandding: 20px;
+    }
+    
+.profile-thumb3:hover {
+   background: #fff;
+  transform: scale(1.05);
+}
+
+    .profile-thumb4 {
+      position: absolute;
+      top: 392px; right: 199px;
+      width:28px; height: 28px;
+      border-radius: 50%;
+      box-shadow: 0 2px 8px #0005;
+      object-fit: cover;
+      border: 2px solid #transparent;
+      z-index: 2;
+      pandding: 20px;
+    }
+
+.profile-thumb4:hover {
+   background: #fff;
+  transform: scale(1.05);
+}
+
+ 
+    .profile-thumb5 {
+      position: absolute;
+      top: 392px; right: 120px;
+      width:28px; height: 28px;
+      border-radius: 50%;
+      box-shadow: 0 2px 8px #0005;
+      object-fit: cover;
+      border: 2px solid #transparent;
+      z-index: 2;
+      pandding: 20px;
+    }
+
+.profile-thumb5:hover {
+   background: #fff;
+  transform: scale(1.05);
+  }
+  
