@@ -2,55 +2,31 @@
 const mediaFiles = [
     
     {
-        name: "Halcones de Venezuela",
-        url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/HalconesdeVenezuela.mp4",
-        type: "Vídeo"
-    },
-    { 
-        name: "Halcones de Venezuela",
-        url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/HdVzla.mp4",
-        type: "Vídeo"
-    },
-    {
-        name: "Osos Maltín",
-        url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/Osos-Maltín2.mp4",
-        type: "Vídeo"
-    },
-    {
-        name: "Tortugas de la Sábana",
-        url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/Tortugas de la Sabana.mp4",
-        type: "Vídeo"
-    },
-    { 
-        name: "Uniforme de las Tortugas",
-        url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/Uniforme de las Tortugas.mp4",
-        type: "Vídeo"
-    },
-    
-    { 
-        name: "Uniforme de los Halcones",
-        url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/Uniforme de los Halcones.mp4",
-        type: "Vídeo"
-    },
-    
-    { 
-        name: "Halcones de Venezuela",
-        url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/Halcones de Venezuela 1.mp4",
-        type: "Vídeo"
-    },
-
-   { 
-        name: "Halcones de Venezuela",
-        url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/HalconesdeVenezuela.mp4",
-        type: "Vídeo"
+        name: "Mlb - Athletics vs Tigers",
+        url: "https://eastcaster.pro/hls/iueyzbvezch16.m3u8?st=1xMa9OxS2mFGWXcNwwXAuGk-g023-tbZeuNOlpVpG_M&e=1750963474",
+        type: "Tv"
     }, 
-    
-    { 
-        name: "Halcones de Venezuela ",
-        url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/HdVzla.mp4",
-        type: "Vídeo"
+    {
+        name: "Mlb 2 - Phillies vs Astros",
+        url: "https://edge1caster.pro/hls/Czajafjihafch18.m3u8?st=dCKN3l8smjVEod5YZ-6PzrgmSysQtagfhQIQSrHho84&e=1750963288",
+        type: "Tv"
     },
-   
+    {
+        name: "Mlb 3 - Braves vs Mets",
+        url: "https://eastcaster.pro/hls/jnzkdzjfanch23.m3u8?st=jsnXIe_EsoXbmcS0sa98clRSOBh_Iph0Qd0mHF6J2A4&e=1750963695",
+        type: "Tv"
+    },     
+    {
+        name: "Space Cityhn",
+        url: "https://tvpass.org/live/sny-sportsnet-new-york-comcast/hd",
+        type: "Tv"
+    },
+   {
+        name: "Mlb network HD",
+        url: "https://tvpass.org/live/MLBNetwork/hd",
+        type: "Tv"
+   },
+       
 ];
 
 let currentTrack = 0;
