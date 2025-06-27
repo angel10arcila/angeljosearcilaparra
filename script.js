@@ -2,8 +2,8 @@
 const mediaFiles = [
     {
         name: "Venearci",
-        url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/venearci-intro-video2.mp4",
-        type: ""
+        url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/venearci-intro-video3.mp4",
+        type: "..."
     },
     {
         name: "Mlb - PIT - NYM",
