@@ -12,7 +12,7 @@ const mediaFiles = [
         type: "Tv"
     },
     {
-        name: "Mlb 3 - HOU - CHC",
+        name: "Mlb 3 - CUC - HOU",
         url: "https://eastcaster.pro/hls/jnzkdzjfanch23.m3u8?st=jsnXIe_EsoXbmcS0sa98clRSOBh_Iph0Qd0mHF6J2A4&e=1750963695",
         type: "Tv"
     },     
