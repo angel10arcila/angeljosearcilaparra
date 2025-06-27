@@ -1,6 +1,10 @@
 // Configuración de medios predefinidos
 const mediaFiles = [
-    
+    {
+        name: "Venearci",
+        url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/venearci-intro-video2.mp4",
+        type: ""
+    },
     {
         name: "Mlb - PIT - NYM",
         url: "https://eastcaster.pro/hls/iueyzbvezch16.m3u8?st=1xMa9OxS2mFGWXcNwwXAuGk-g023-tbZeuNOlpVpG_M&e=1750963474",
