@@ -7,12 +7,12 @@ const mediaFiles = [
         type: "Tv"
     }, 
     {
-        name: "Mlb 2 - Phillies vs Astros",
+        name: "Mlb 2 - ATL vs PHI",
         url: "https://edge1caster.pro/hls/Czajafjihafch18.m3u8?st=dCKN3l8smjVEod5YZ-6PzrgmSysQtagfhQIQSrHho84&e=1750963288",
         type: "Tv"
     },
     {
-        name: "Mlb 3 - Braves vs Mets",
+        name: "Mlb 3 - HOU - CHC",
         url: "https://eastcaster.pro/hls/jnzkdzjfanch23.m3u8?st=jsnXIe_EsoXbmcS0sa98clRSOBh_Iph0Qd0mHF6J2A4&e=1750963695",
         type: "Tv"
     },     
