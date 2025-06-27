@@ -2,7 +2,7 @@
 const mediaFiles = [
     
     {
-        name: "Mlb - Athletics vs Tigers",
+        name: "Mlb - PIT - NYM",
         url: "https://eastcaster.pro/hls/iueyzbvezch16.m3u8?st=1xMa9OxS2mFGWXcNwwXAuGk-g023-tbZeuNOlpVpG_M&e=1750963474",
         type: "Tv"
     }, 
