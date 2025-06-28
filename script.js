@@ -6,7 +6,7 @@ const mediaFiles = [
         type: "..."
     },
     {
-        name: "Mlb - PIT - NYM ( 4:10 PM )",
+        name: "Mlb - PIT - NYM ( 4:05 PM )",
         url: "https://eastcaster.pro/hls/bzagLHzach19.m3u8?st=H36fLtMJX6ypaOa4XtDNZyYhYrTn8WQ5A0gGKfRdcmc&e=1751139649",
         type: "Tv"
     }, 
@@ -16,8 +16,8 @@ const mediaFiles = [
         type: "Tv"
     },
     {
-        name: "Mlb 3 - CHC - HOU",
-        url: "https://edge1caster.pro/hls/kjhfzua25.m3u8?st=B36ioZl-n-HgU6Xo428JVcoo2TMUFitqlR3DuiqNd2E&e=1751054858",
+        name: "Mlb 3 - CHC - HOU ( 7:15 PM )",
+        url: "https://edge1caster.pro/hls/jzabfazkbf27.m3u8?st=9hq-qPWpF44RQFgrG5vSO9ssCVzHOW4sVO88qUb6Fos&e=1751139840",
         type: "Tv"
     },     
     {
