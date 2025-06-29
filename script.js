@@ -20,17 +20,7 @@ const mediaFiles = [
         url: "https://edge1caster.pro/hls/jzabfazkbf27.m3u8?st=9hq-qPWpF44RQFgrG5vSO9ssCVzHOW4sVO88qUb6Fos&e=1751139840",
         type: "Tv"
     }, 
-    {
-        name: "Space Cityhn",
-        url: "https://tvpass.org/live/sny-sportsnet-new-york-comcast/hd",
-        type: "Tv"
-    },
-   {
-        name: "Mlb network HD",
-        url: "https://tvpass.org/live/MLBNetwork/hd",
-        type: "Tv"
-   },
-       
+      
 ];
 
 let currentTrack = 0;
