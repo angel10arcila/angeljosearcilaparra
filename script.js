@@ -16,7 +16,7 @@ const mediaFiles = [
         type: "Tv"
     },
     {
-        name: "Mlb 3 - CHC - HOU ( 2:10 PM/ET | 1-7-2025 )",
+        name: "Mlb 3 - HOU - COL ( 8:40 PM/ET | 1-7-2025 )",
         url: "https://eastcaster.pro/hls/jnzkdzjfanch23.m3u8?st=i-MYyFZkxMXIRhLSd9RxJQlDbfGecmD5KjcpLzT5j9c&e=1751217760",
         type: "Tv"
     }, 
