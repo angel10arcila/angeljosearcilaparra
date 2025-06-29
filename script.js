@@ -7,7 +7,7 @@ const mediaFiles = [
     },
     {
         name: "Mlb - PIT - NYM ( 1:35 PM )",
-        url: "https://eastcaster.pro/hls/bzagLHzach19.m3u8?st=H36fLtMJX6ypaOa4XtDNZyYhYrTn8WQ5A0gGKfRdcmc&e=1751139649",
+        url: "https://eastcaster.pro/hls/ijfnakfidch22.m3u8?st=hEKD8aODzauRTgnC1pmA4NEiEx8O698fR3ItDdFR2zA&e=1751217282",
         type: "Tv"
     }, 
     {
