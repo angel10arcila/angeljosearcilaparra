@@ -6,17 +6,17 @@ const mediaFiles = [
         type: "..."
     },
     {
-        name: "Mlb - PIT - NYM ( 1:35 PM )",
+        name: "Mlb - MIL - NYM ( 7:10 PM/ET | 1-7-2025 )",
         url: "https://edge1caster.pro/hls/jkzahzadach20.m3u8?st=Autgpz2lUf2XeYF-tITC7HbEoBDXZ9lC_8AAK76L_98&e=1751217549",
         type: "Tv"
     }, 
     {
-        name: "Mlb 2 - ATL vs PHI ( 1:35 PM )",
+        name: "Mlb 2 - LAA vs ATL ( 7:10 PM/ET | 1-7-2025 )",
         url: "https://edge1caster.pro/hls/bzagLHzach19.m3u8?st=fsUD5kqzyRtGsKI9_OZdFAYiMGUHIW99WpuYuZ4nnqo&e=1751217680",
         type: "Tv"
     },
     {
-        name: "Mlb 3 - CHC - HOU ( 2:10 PM )",
+        name: "Mlb 3 - CHC - HOU ( 2:10 PM/ET | 1-7-2025 )",
         url: "https://eastcaster.pro/hls/jnzkdzjfanch23.m3u8?st=i-MYyFZkxMXIRhLSd9RxJQlDbfGecmD5KjcpLzT5j9c&e=1751217760",
         type: "Tv"
     }, 
