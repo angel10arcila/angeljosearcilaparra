@@ -21,21 +21,6 @@ const mediaFiles = [
         type: "Tv"
     }, 
     {
-        name: "Fox Sports",
-        url: "https://ewvz.fubohd.com/foxsportsmx/mono.m3u8?token=62ae50027f577ef2ff784bd09900ab4148ee5be8-21-1751182198-1751164198",
-        type: "Video"
-    },
-    {
-        name: "Fox Sports 2",
-        url: "https://wp9xqedt.fubohd.com/foxsports2mx/mono.m3u8?token=1051ddc51458866567a97ebe3ac26f3743d70afc-a7-1751182114-1751164114",
-        type: "Video"
-    },
-    {
-        name: "Fox Sports 3",
-        url: "https://bmf0aw9u.fubohd.com/foxsports3mx/mono.m3u8?token=0981745bda7030c03e9d1d3f17d13e65b395143e-b1-1751182260-1751164260",
-        type: "Video"
-    },
-    {
         name: "Space Cityhn",
         url: "https://tvpass.org/live/sny-sportsnet-new-york-comcast/hd",
         type: "Tv"
