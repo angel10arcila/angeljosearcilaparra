@@ -17,7 +17,7 @@ const mediaFiles = [
     },
     {
         name: "Mlb 3 - CHC - HOU ( 2:10 PM )",
-        url: "https://edge1caster.pro/hls/jzabfazkbf27.m3u8?st=9hq-qPWpF44RQFgrG5vSO9ssCVzHOW4sVO88qUb6Fos&e=1751139840",
+        url: "https://eastcaster.pro/hls/jnzkdzjfanch23.m3u8?st=i-MYyFZkxMXIRhLSd9RxJQlDbfGecmD5KjcpLzT5j9c&e=1751217760",
         type: "Tv"
     }, 
       
