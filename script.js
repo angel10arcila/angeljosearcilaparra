@@ -7,17 +7,17 @@ const mediaFiles = [
     },
     {
         name: "Mlb - MIL - NYM ( 7:10 PM/ET | 1-7-2025 )",
-        url: "https://www.dailymotion.com/cdn/manifest/video/x9m3eyi.m3u8?sec=3j4ucpjQ24NgJmlauwx13OGKBH1-X2--iOwRJGHcbCsk6Z5zRTgq1mO1ttvM4WDs8RvqrPermlX80dj7aLA8pw&dmTs=165857&dmV1st=fff709a8-6fe5-11da-aa75-1457e144bb39",
+        url: "https://vod-ns10-cdn-livepush.akamaized.net/nsDkPxMGQAo6RG/9bK5BSKrxR43vx.encoded.mp4",
         type: "Tv"
     }, 
     {
         name: "Mlb 2 - LAA vs ATL ( 7:10 PM/ET | 1-7-2025 )",
-        url: "https://www.dailymotion.com/cdn/manifest/video/x9m3eyi.m3u8?sec=3j4ucpjQ24NgJmlauwx13OGKBH1-X2--iOwRJGHcbCsk6Z5zRTgq1mO1ttvM4WDs8RvqrPermlX80dj7aLA8pw&dmTs=165857&dmV1st=fff709a8-6fe5-11da-aa75-1457e144bb39",
+        url: "https://vod-ns10-cdn-livepush.akamaized.net/nsDkPxMGQAo6RG/9bK5BSKrxR43vx.encoded.mp4",
         type: "Tv"
     },
     {
         name: "Mlb 3 - HOU - COL ( 8:40 PM/ET | 1-7-2025 )",
-        url: "https://www.dailymotion.com/cdn/manifest/video/x9m3eyi.m3u8?sec=3j4ucpjQ24NgJmlauwx13OGKBH1-X2--iOwRJGHcbCsk6Z5zRTgq1mO1ttvM4WDs8RvqrPermlX80dj7aLA8pw&dmTs=165857&dmV1st=fff709a8-6fe5-11da-aa75-1457e144bb39",
+        url: "https://vod-ns10-cdn-livepush.akamaized.net/nsDkPxMGQAo6RG/9bK5BSKrxR43vx.encoded.mp4",
         type: "Tv"
     }, 
       
