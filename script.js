@@ -14,7 +14,7 @@ const mediaFiles = [
     }, 
     {
         name: "Mlb 2 - LAA vs ATL ( 7:10 PM/ET )",
-        url: "https://edge1caster.pro/hls/jnzkdzjfanch23.m3u8?st=F7rQG5tDTbQ0IUF7fwWFzoDccjBFWte4jg2r0gfJPJ4&e=1751402241",
+        url: "https://eastcaster.pro/hls/jnzkdzjfanch23.m3u8?st=84YV_zJSlGP0WrU7qQPveM9oVpaZaAfFOh04KParO-0&e=1751409717",
         type: "Tv"
     },
     {
