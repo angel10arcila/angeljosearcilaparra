@@ -19,7 +19,7 @@ const mediaFiles = [
     },
     {
         name: "Mlb 3 - HOU - COL ( 8:40 PM/ET )",
-        url: "https://eastcaster.pro/hls/dzjhkfazbka26.m3u8?st=EHP7Q_BxhWzNCpLP9W8rAaq_lj5460QYaJ8SYCXHlB8&e=1751402262",
+        url: "https://edge1caster.pro/hls/dzjhkfazbka26.m3u8?st=rHjDpIrcQ0B3MO9TlFC_OBf9J5G4_1vf5zZM-74p8vM&e=1751409935",
         type: "Tv"
     }, 
       
