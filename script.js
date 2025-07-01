@@ -9,7 +9,7 @@ const mediaFiles = [
     },
     {
         name: "Mlb - MIL - NYM ( 7:10 PM/ET )",
-        url: "https://edge1caster.pro/hls/ijfnakfidch22.m3u8?st=NEBEhwuUuahip4nKSiCAt9RhNoCi-yo7aNgG26_hs8I&e=1751401707",
+        url: "https://eastcaster.pro/hls/ihfazugfyjcazich17.m3u8?st=yZW2zZwkSEnluugTThmZb_dtLtPZUEmMnWnnZRtw1YA&e=1751409576",
         type: "Tv"
     }, 
     {
