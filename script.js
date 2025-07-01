@@ -6,18 +6,18 @@ const mediaFiles = [
         type: "..."
     },
     {
-        name: "Mlb - MIL - NYM ( 7:10 PM/ET | 1-7-2025 )",
+        name: "Mlb - MIL - NYM ( 7:10 PM/ET )",
         url: "https://edge1caster.pro/hls/ijfnakfidch22.m3u8?st=NEBEhwuUuahip4nKSiCAt9RhNoCi-yo7aNgG26_hs8I&e=1751401707",
         type: "Tv"
     }, 
     {
-        name: "Mlb 2 - LAA vs ATL ( 7:10 PM/ET | 1-7-2025 )",
-        url: "https://cdn-cf-east.streamable.com/video/mp4/vgjtki.mp4?Expires=1751561168646&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=RWEaOMiFhs3ahp8OpwlUC7ERnjknUi-Cd-rxRR8rHUbqYelB1KkfE7mlVVd8L8j0cdYwifaH0D8lxyzSwfj~wjxdwX1zX9L~93Pkmiikry6vb1p1SrcABjfIWBeqEgIV8Lr49hsyWDYFp2duHxpxBuYdAKq4C9-QFkLar5F7TfvqCTcuoGZldfxudUlfDMRL9ml2Qy5-ryQk~QI3zrVi53BaYOq5e3OMhxzMuyWe2JR5dHkhJ-mfw0DbgriR7F53n6H1~agWJHx8ZcMlAynypE6SRS4qpvG82OZmSYpLzlPQkUDqz3HveKAu3RKCjteXkK~-Dl~5ZCL4hvjd3g3K5Q__",
+        name: "Mlb 2 - LAA vs ATL ( 7:10 PM/ET )",
+        url: "https://edge1caster.pro/hls/jnzkdzjfanch23.m3u8?st=F7rQG5tDTbQ0IUF7fwWFzoDccjBFWte4jg2r0gfJPJ4&e=1751402241",
         type: "Tv"
     },
     {
-        name: "Mlb 3 - HOU - COL ( 8:40 PM/ET | 1-7-2025 )",
-        url: "https://cdn-cf-east.streamable.com/video/mp4/vgjtki.mp4?Expires=1751561168646&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=RWEaOMiFhs3ahp8OpwlUC7ERnjknUi-Cd-rxRR8rHUbqYelB1KkfE7mlVVd8L8j0cdYwifaH0D8lxyzSwfj~wjxdwX1zX9L~93Pkmiikry6vb1p1SrcABjfIWBeqEgIV8Lr49hsyWDYFp2duHxpxBuYdAKq4C9-QFkLar5F7TfvqCTcuoGZldfxudUlfDMRL9ml2Qy5-ryQk~QI3zrVi53BaYOq5e3OMhxzMuyWe2JR5dHkhJ-mfw0DbgriR7F53n6H1~agWJHx8ZcMlAynypE6SRS4qpvG82OZmSYpLzlPQkUDqz3HveKAu3RKCjteXkK~-Dl~5ZCL4hvjd3g3K5Q__",
+        name: "Mlb 3 - HOU - COL ( 8:40 PM/ET )",
+        url: "https://eastcaster.pro/hls/dzjhkfazbka26.m3u8?st=EHP7Q_BxhWzNCpLP9W8rAaq_lj5460QYaJ8SYCXHlB8&e=1751402262",
         type: "Tv"
     }, 
       
