@@ -1,7 +1,7 @@
 // Configuración de medios predefinidos
 const mediaFiles = [
 
-    //https://cdn-cf-east.streamable.com/video/mp4/vgjtki.mp4?Expires=1751651416139&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=F3r8fVpfOlUCoeotenRcVmbwaCFOTUZoDTLb3nHWwQxEXPTRFdo0b2gzuFVmt00dbNd6A6fbcQ1njslGhyxaQ9qYUpHFtdlhyO4GlVbuQyE919eGi5Vm0hkK3wDZ6HquDAoDYWg9CYnwpE8UP~5by~Mfl32AG3ImSU4dM1KAATwhPpJZpIBOehcU~U1wKJlMKjMQRR275BbzZ3CoAvfQZAIth0AqjdT7fF15~PJ--Fh5~YmXzQ7~7uz1axSwrI-1mq1O2KXRkS1zlmTnNz7qZ5YijNXaexUhBW~acmzZouw3XP8r7QoNvNnp5SuqZmS3H70Pz2cGLeVtvXLJKArI6A__
+    //https://cdn-cf-east.streamable.com/video/mp4/vgjtki.mp4?Expires=1751732394861&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=GxuWr~cKDwaJ5yfxjKo51V39SB9njyI5xPOhkfSI3lyvLmM-MAlf31YGEDLOn7Zbcbv-4BpBjtppewMaOFzIMRcrrGs-b7k2vFLu5n4KQGDNN8yZjfZhRyiKfjJMmMXP9cIEbtwkJhWooJ5-vTziSPwD6gmO-Lsm0ij6qipTopm3IGZWVa1QtZwx4r0rfw4jbJMIEt--1GMt3wnMitmgSFaxGH1-CbkiWzItIsGX6E-lI-Ma3Qx4ridh6MzG~zudzZaSjrZH6nti3dNhuAX80cYvHiKxFQ~rgWVkHteVIzNsdgFIP4AeXnUTVRuW620ib54esz2TpGFhg7PVMuU88w__
     {
         name: "Venearci",
         url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/venearci-intro-video3.mp4",
@@ -14,12 +14,12 @@ const mediaFiles = [
     }, 
     {
         name: "Mlb 2 - LAA vs ATL ( 7:10 PM/ET )",
-        url: "//https://cdn-cf-east.streamable.com/video/mp4/vgjtki.mp4?Expires=1751651416139&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=F3r8fVpfOlUCoeotenRcVmbwaCFOTUZoDTLb3nHWwQxEXPTRFdo0b2gzuFVmt00dbNd6A6fbcQ1njslGhyxaQ9qYUpHFtdlhyO4GlVbuQyE919eGi5Vm0hkK3wDZ6HquDAoDYWg9CYnwpE8UP~5by~Mfl32AG3ImSU4dM1KAATwhPpJZpIBOehcU~U1wKJlMKjMQRR275BbzZ3CoAvfQZAIth0AqjdT7fF15~PJ--Fh5~YmXzQ7~7uz1axSwrI-1mq1O2KXRkS1zlmTnNz7qZ5YijNXaexUhBW~acmzZouw3XP8r7QoNvNnp5SuqZmS3H70Pz2cGLeVtvXLJKArI6A__",
+        url: "https://cdn-cf-east.streamable.com/video/mp4/vgjtki.mp4?Expires=1751732394861&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=GxuWr~cKDwaJ5yfxjKo51V39SB9njyI5xPOhkfSI3lyvLmM-MAlf31YGEDLOn7Zbcbv-4BpBjtppewMaOFzIMRcrrGs-b7k2vFLu5n4KQGDNN8yZjfZhRyiKfjJMmMXP9cIEbtwkJhWooJ5-vTziSPwD6gmO-Lsm0ij6qipTopm3IGZWVa1QtZwx4r0rfw4jbJMIEt--1GMt3wnMitmgSFaxGH1-CbkiWzItIsGX6E-lI-Ma3Qx4ridh6MzG~zudzZaSjrZH6nti3dNhuAX80cYvHiKxFQ~rgWVkHteVIzNsdgFIP4AeXnUTVRuW620ib54esz2TpGFhg7PVMuU88w__",
         type: "Tv"
     },
     {
         name: "Mlb 3 - HOU - COL ( 8:40 PM/ET )",
-        url: "//https://cdn-cf-east.streamable.com/video/mp4/vgjtki.mp4?Expires=1751651416139&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=F3r8fVpfOlUCoeotenRcVmbwaCFOTUZoDTLb3nHWwQxEXPTRFdo0b2gzuFVmt00dbNd6A6fbcQ1njslGhyxaQ9qYUpHFtdlhyO4GlVbuQyE919eGi5Vm0hkK3wDZ6HquDAoDYWg9CYnwpE8UP~5by~Mfl32AG3ImSU4dM1KAATwhPpJZpIBOehcU~U1wKJlMKjMQRR275BbzZ3CoAvfQZAIth0AqjdT7fF15~PJ--Fh5~YmXzQ7~7uz1axSwrI-1mq1O2KXRkS1zlmTnNz7qZ5YijNXaexUhBW~acmzZouw3XP8r7QoNvNnp5SuqZmS3H70Pz2cGLeVtvXLJKArI6A__",
+        url: "https://cdn-cf-east.streamable.com/video/mp4/vgjtki.mp4?Expires=1751732394861&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=GxuWr~cKDwaJ5yfxjKo51V39SB9njyI5xPOhkfSI3lyvLmM-MAlf31YGEDLOn7Zbcbv-4BpBjtppewMaOFzIMRcrrGs-b7k2vFLu5n4KQGDNN8yZjfZhRyiKfjJMmMXP9cIEbtwkJhWooJ5-vTziSPwD6gmO-Lsm0ij6qipTopm3IGZWVa1QtZwx4r0rfw4jbJMIEt--1GMt3wnMitmgSFaxGH1-CbkiWzItIsGX6E-lI-Ma3Qx4ridh6MzG~zudzZaSjrZH6nti3dNhuAX80cYvHiKxFQ~rgWVkHteVIzNsdgFIP4AeXnUTVRuW620ib54esz2TpGFhg7PVMuU88w__",
         type: "Tv"
     }, 
       
