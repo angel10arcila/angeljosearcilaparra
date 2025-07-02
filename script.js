@@ -14,7 +14,7 @@ const mediaFiles = [
     }, 
     {
         name: "Mlb 2 - LAA vs ATL ( 7:10 PM/ET )",
-        url: "https://cdn-cf-east.streamable.com/video/mp4/vgjtki.mp4?Expires=1751732394861&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=GxuWr~cKDwaJ5yfxjKo51V39SB9njyI5xPOhkfSI3lyvLmM-MAlf31YGEDLOn7Zbcbv-4BpBjtppewMaOFzIMRcrrGs-b7k2vFLu5n4KQGDNN8yZjfZhRyiKfjJMmMXP9cIEbtwkJhWooJ5-vTziSPwD6gmO-Lsm0ij6qipTopm3IGZWVa1QtZwx4r0rfw4jbJMIEt--1GMt3wnMitmgSFaxGH1-CbkiWzItIsGX6E-lI-Ma3Qx4ridh6MzG~zudzZaSjrZH6nti3dNhuAX80cYvHiKxFQ~rgWVkHteVIzNsdgFIP4AeXnUTVRuW620ib54esz2TpGFhg7PVMuU88w__",
+        url: "https://edge1caster.pro/hls/dzjhkfazbka26.m3u8?st=_1SdYWo1HRaPlkXw48YGo9c5xz6crTdX3RZAKBUD18k&e=1751498570",
         type: "Tv"
     },
     {
