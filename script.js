@@ -13,13 +13,13 @@ const mediaFiles = [
         type: "Tv"
     }, 
     {
-        name: "Mlb 2 - LAA vs ATL ( 7:10 PM/ET )",
+        name: "Mlb 2 - MIL vs NYM ( 7:10 PM/ET )",
         url: "https://edge1caster.pro/hls/dzjhkfazbka26.m3u8?st=_1SdYWo1HRaPlkXw48YGo9c5xz6crTdX3RZAKBUD18k&e=1751498570",
         type: "Tv"
     },
     {
-        name: "Mlb 3 - MIL - NYM ( 8:40 PM/ET )",
-        url: "https://eastcaster.pro/hls/hfzljfahzcax29.m3u8?st=LnAb-x5HT0j0p0Mc3TjXfaDz0ZTaXqCs3dYEPxaZHuw&e=1751498688",
+        name: "Mlb 3 - LAA - ATL ( 7:15 PM/ET )",
+        url: "https://edge1caster.pro/hls/jkzahzadach20.m3u8?st=zlaCmsOu1IlA0pAti1VsQV7zu155JpY436ul8O1ZI-4&e=1751579437",
         type: "Tv"
     }, 
       
