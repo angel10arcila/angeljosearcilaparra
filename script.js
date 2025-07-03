@@ -14,7 +14,7 @@ const mediaFiles = [
     }, 
     {
         name: "Mlb 2 - MIL vs NYM ( 7:10 PM/ET )",
-        url: "https://edge1caster.pro/hls/dzjhkfazbka26.m3u8?st=_1SdYWo1HRaPlkXw48YGo9c5xz6crTdX3RZAKBUD18k&e=1751498570",
+        url: "https://edge1caster.pro/hls/bzagLHzach19.m3u8?st=LTRMXm7UDsG4aHjx9AVAoIwvaE9EH2RpZhvuV-CaHRc&e=1751579628",
         type: "Tv"
     },
     {
