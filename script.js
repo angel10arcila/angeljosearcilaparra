@@ -8,8 +8,8 @@ const mediaFiles = [
         type: "..."
     },
     {
-        name: "Mlb - MIL - NYM ( 1:10 PM/ET )",
-        url: "https://edge1caster.pro/hls/bzagLHzach19.m3u8?st=uBf8xpus_ZQux3ZLMwZsY4uzV0UleuRTM3UoaqKg9jY&e=1751480078",
+        name: "Mlb - HOU - COL ( 3:10 PM/ET )",
+        url: "https://edge1caster.pro/hls/iueyzbvezch16.m3u8?st=aJE335d0jHb5Kq8zh1N76UAb6AQwU0F5FHE5a1461n4&e=1751579248",
         type: "Tv"
     }, 
     {
@@ -18,7 +18,7 @@ const mediaFiles = [
         type: "Tv"
     },
     {
-        name: "Mlb 3 - HOU - COL ( 8:40 PM/ET )",
+        name: "Mlb 3 - MIL - NYM ( 8:40 PM/ET )",
         url: "https://eastcaster.pro/hls/hfzljfahzcax29.m3u8?st=LnAb-x5HT0j0p0Mc3TjXfaDz0ZTaXqCs3dYEPxaZHuw&e=1751498688",
         type: "Tv"
     }, 
