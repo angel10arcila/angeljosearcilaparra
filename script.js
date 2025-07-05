@@ -18,8 +18,8 @@ const mediaFiles = [
         type: "Tv"
     },
     {
-        name: "Mlb 3 - HOU - LAD ( 9:10 PM/ET )",
-        url: "https://edge1caster.pro/hls/jzabfazkbf27.m3u8?st=lKSTmRN9Uae4AQ2aGj4vc4_7IcJKIFOF1Uj0FMCp9K0&e=1751657196",
+        name: "Mlb 3 - HOU - LAD ( 7:15 PM/ET )",
+        url: "https://edge1caster.pro/hls/kjhfzua25.m3u8?st=71N0PfY8wWq7WvSjL2Ihsz3PB3JnkE_eFeMP6fXti4Q&e=1751745478",
         type: "Tv"
     }, 
       
