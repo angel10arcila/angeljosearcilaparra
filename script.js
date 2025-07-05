@@ -8,12 +8,12 @@ const mediaFiles = [
         type: "..."
     },
     {
-        name: "Mlb - NYY - NYM ( 3:10 PM/ET )",
+        name: "Mlb - NYY - NYM ( 4:10 PM/ET )",
         url: "https://eastcaster.pro/hls/ojzkajnach21.m3u8?st=oYeR9F_w-SXLAqOS82cysRXwyg3L0rCShOTwiLwsEHw&e=1751745347",
         type: "Tv"
     }, 
     {
-        name: "Mlb 2 - BAL vs ATL ( 7:15 PM/ET )",
+        name: "Mlb 2 - BAL vs ATL ( 4:10 PM/ET )",
         url: "https://eastcaster.pro/hls/jkzahzadach20.m3u8?st=a_EiKw3BrPFhGOaTzwZCrI1aEhCnTqgMLS8_IY66iT4&e=1751745171",
         type: "Tv"
     },
