@@ -14,7 +14,7 @@ const mediaFiles = [
     }, 
     {
         name: "Mlb 2 - BAL vs ATL ( 7:15 PM/ET )",
-        url: "https://eastcaster.pro/hls/kjhfzua25.m3u8?st=X4rCgMr4lDMlry8ayWuaQJPopdxR5tCSsFu7k7jr9Oc&e=1751657088",
+        url: "https://eastcaster.pro/hls/jkzahzadach20.m3u8?st=a_EiKw3BrPFhGOaTzwZCrI1aEhCnTqgMLS8_IY66iT4&e=1751745171",
         type: "Tv"
     },
     {
