@@ -8,17 +8,17 @@ const mediaFiles = [
         type: "..."
     },
     {
-        name: "Mlb - NYY - NYM ( 4:10 PM/ET )",
+        name: "©Mlb - NYY - NYM ( 4:10 PM/ET )",
         url: "https://eastcaster.pro/hls/ojzkajnach21.m3u8?st=oYeR9F_w-SXLAqOS82cysRXwyg3L0rCShOTwiLwsEHw&e=1751745347",
         type: "Tv"
     }, 
     {
-        name: "Mlb 2 - BAL vs ATL ( 4:10 PM/ET )",
+        name: "©Mlb 2 - BAL vs ATL ( 4:10 PM/ET )",
         url: "https://eastcaster.pro/hls/jkzahzadach20.m3u8?st=a_EiKw3BrPFhGOaTzwZCrI1aEhCnTqgMLS8_IY66iT4&e=1751745171",
         type: "Tv"
     },
     {
-        name: "Mlb 3 - HOU - LAD ( 7:15 PM/ET )",
+        name: "©Mlb 3 - HOU - LAD ( 7:15 PM/ET )",
         url: "https://edge1caster.pro/hls/kjhfzua25.m3u8?st=71N0PfY8wWq7WvSjL2Ihsz3PB3JnkE_eFeMP6fXti4Q&e=1751745478",
         type: "Tv"
     }, 
