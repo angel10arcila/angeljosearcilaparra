@@ -15,8 +15,8 @@ const mediaFiles = [
     }, 
     
     {
-        name: "©Mlb 2 - NYY vs NYM ( 4:10 PM/ET )",
-        url: "https://eastcaster.pro/hls/jkzahzadach20.m3u8?st=a_EiKw3BrPFhGOaTzwZCrI1aEhCnTqgMLS8_IY66iT4&e=1751745171",
+        name: "©Mlb 2 - NYY vs NYM ( 1:40 PM/ET )",
+        url: "https://edge1caster.pro/hls/jkzahzadach20.m3u8?st=2TK-9V9ijJddqniYhBtM9frKMRMFXaspKULfqs6MIos&e=1751835443",
         type: "Tv"
     },
     
