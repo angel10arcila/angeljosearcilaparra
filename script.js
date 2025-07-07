@@ -9,20 +9,8 @@ const mediaFiles = [
     },
     
     {
-        name: "©Mlb - BAL - ATL ( 11:35 PM/ET )",
-        url: "https://edge1caster.pro/hls/dazhfiach15.m3u8?st=jWbCdqvmi7vS5C4ZLmjHneAcZ1KvGPhsnsvxKVNO6qw&e=1751835186",
-        type: "Tv"
-    }, 
-    
-    {
-        name: "©Mlb 2 - NYY vs NYM ( 1:40 PM/ET )",
-        url: "https://edge1caster.pro/hls/jkzahzadach20.m3u8?st=2TK-9V9ijJddqniYhBtM9frKMRMFXaspKULfqs6MIos&e=1751835443",
-        type: "Tv"
-    },
-    
-    {
-        name: "©Mlb 3 - HOU - LAD ( 4:10 PM/ET )",
-        url: "https://eastcaster.pro/hls/kjhfzua25.m3u8?st=EVNhG5vtiC202Eone8UYQwcxAV6ffw-U2lDr85ClvWg&e=1751835562",
+        name: "©Mlb 3 - CLE vs HOU (8:10 PM/ET)",
+        url: "https://edge1caster.pro/hls/ojzkajnach21.m3u8?st=NJ28o_r0IDFIHk-AVPIbHThkiJhzSb9uHFwXfP2LBds&e=1751926787",
         type: "Tv"
     }, 
 
