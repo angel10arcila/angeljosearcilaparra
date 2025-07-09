@@ -21,8 +21,8 @@ const mediaFiles = [
     },
 
     {
-        name: "©Mlb 3 - ATL vs ATH ( 9:10 PM/ET )",
-        url: "https://eastcaster.pro/hls/hfzljfahzcax29.m3u8?st=KHJqxSRxCrRVcyiePKP0daY7WvnZz6XSoM1GALqqATY&e=1752039496",
+        name: "©Mlb 3 - ATL vs ATH ( 10:05 PM/ET )",
+        url: "https://edge1caster.pro/hls/hfzljfahzcax29.m3u8?st=srBY97ZY4pzgzkeABQI0ccy71F-jRebS-SG4j8xpItY&e=1752091424",
         type: "Video"
     },
     
