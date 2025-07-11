@@ -7,10 +7,10 @@ const mediaFiles = [
         url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/venearci-intro-video3.mp4",
         type: "..."
     },
-    
+ 
     {
         name: "©Mlb - NYM vs KC ( 8:10 PM/ET)",
-        url: "https://edge1caster.pro/hls/ojzkajnach21.m3u8?st=q-dVbajfa4goBXO7PczAIC4Va1qPk8ybZLT6jeubIss&e=1752091196",
+        url: "https://eastcaster.pro/hls/jkzahzadach20.m3u8?st=YkNuSJo61jKbezs0Q0T3YmFi60eXqk-2PolxrdPEy-U&e=1752268185",
         type: "Tv"
     }, 
 
