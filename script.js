@@ -21,7 +21,7 @@ const mediaFiles = [
     },
 
     {
-        name: "©Mlb 3 - ATL vs STL ( 10:05 PM/ET )",
+        name: "©Mlb 3 - ATL vs STL ( 10:15 PM/ET )",
         url: "https://edge1caster.pro/hls/hfzljfahzcax29.m3u8?st=srBY97ZY4pzgzkeABQI0ccy71F-jRebS-SG4j8xpItY&e=1752091424",
         type: "Video"
     },
@@ -33,13 +33,13 @@ const mediaFiles = [
     },
 
     {
-        name: "Space Cityhn",
+        name: "©Space Cityhn",
         url: "https://tvpass.org/live/sny-sportsnet-new-york-comcast/hd",
         type: "Tv"
     },
    
     {
-        name: "Mlb network HD",
+        name: "©Mlb network HD",
         url: "https://tvpass.org/live/MLBNetwork/hd",
         type: "Tv"
    },
