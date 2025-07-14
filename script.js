@@ -9,23 +9,11 @@ const mediaFiles = [
     },
  
     {
-        name: "©Mlb - NYM vs KC ( 8:10 PM/ET)",
+        name: "©Mlb - ALL-STARS-GAME AL vs NL ( 8:10 PM/ET)",
         url: "https://eastcaster.pro/hls/jkzahzadach20.m3u8?st=YkNuSJo61jKbezs0Q0T3YmFi60eXqk-2PolxrdPEy-U&e=1752268185",
         type: "Tv"
     }, 
 
-    {
-        name: "©Mlb 2 - TEX vs HOU ( 8:10 PM/ET )",
-        url: "https://edge1caster.pro/hls/ijfnakfidch22.m3u8?st=FU8J2DTHySXp4Jvtw9x7zggGabOg5gZ_7RKw_fz9py4&e=1752268806",
-        type: "Tv"
-    },
-
-    {
-        name: "©Mlb 3 - ATL vs STL ( 10:15 PM/ET )",
-        url: "https://edge1caster.pro/hls/fskjanach24.m3u8?st=Vf0MrfSFcSeSLzQDbUwQCWA5Lc5gcTbhKybEpBOPoKg&e=1752270339",
-        type: "Video"
-    },
-    
     {
         name: "©Venearci",
         url: "https://cdn-cf-east.streamable.com/video/mp4/vgjtki.mp4?Expires=1751732394861&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=GxuWr~cKDwaJ5yfxjKo51V39SB9njyI5xPOhkfSI3lyvLmM-MAlf31YGEDLOn7Zbcbv-4BpBjtppewMaOFzIMRcrrGs-b7k2vFLu5n4KQGDNN8yZjfZhRyiKfjJMmMXP9cIEbtwkJhWooJ5-vTziSPwD6gmO-Lsm0ij6qipTopm3IGZWVa1QtZwx4r0rfw4jbJMIEt--1GMt3wnMitmgSFaxGH1-CbkiWzItIsGX6E-lI-Ma3Qx4ridh6MzG~zudzZaSjrZH6nti3dNhuAX80cYvHiKxFQ~rgWVkHteVIzNsdgFIP4AeXnUTVRuW620ib54esz2TpGFhg7PVMuU88w__",
