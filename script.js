@@ -10,7 +10,7 @@ const mediaFiles = [
  
     {
         name: "©Mlb - ALL-STARS-GAME AL vs NL ( 8:10 PM/ET)",
-        url: "https://eastcaster.pro/hls/jkzahzadach20.m3u8?st=YkNuSJo61jKbezs0Q0T3YmFi60eXqk-2PolxrdPEy-U&e=1752268185",
+        url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/02/5dc27ca4-1b503eb7-a10b67f5-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
         type: "Tv"
     }, 
 
