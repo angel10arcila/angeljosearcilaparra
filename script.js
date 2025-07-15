@@ -10,7 +10,7 @@ const mediaFiles = [
  
     {
         name: "©Mlb - ALL-STARS-GAME AL vs NL ( 8:10 PM/ET)",
-        url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/02/5dc27ca4-1b503eb7-a10b67f5-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+        url: "https://rr.buytommy.top/secure/EBmPJkhxKL/charlie/stream/american-league-all-stars-vs-national-league-all-star-1629449560/1/playlist.m3u8",
         type: "Tv"
     }, 
 
