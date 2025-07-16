@@ -9,10 +9,16 @@ const mediaFiles = [
     },
  
     {
-        name: "©Mlb - ALL-STARS-GAME AL vs NL ( 8:10 PM/ET)",
-        url: "https://rr.buytommy.top/secure/EBmPJkhxKL/charlie/stream/american-league-all-stars-vs-national-league-all-star-1629449560/1/playlist.m3u8",
+        name: "©Mlb - ALL-STARS-GAME - AL vs NL ( 8:10 PM/ET)",
+        url: "https://dmvudge.fubohd.com/mlb1/mono.m3u8?token=c9109e44de2f6ef073c63a9ade9b28aa257a755e-56-1752641178-1752623178",
         type: "Tv"
     }, 
+
+    {
+        name: "©Mlb - ALL-STAR-GAME - AL vs LN",
+         url: "https://agl2zq.fubohd.com/foxsportsmx/mono.m3u8?token=5334583b390f4bf9f45cc15660d27d9bc48a06ac-6b-1752641109-1752623109",
+        type: "Video"
+    },
 
     {
         name: "©Venearci",
