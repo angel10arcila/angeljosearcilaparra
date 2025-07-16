@@ -16,7 +16,7 @@ const mediaFiles = [
 
     {
         name: "©Mlb - ALL-STAR-GAME - AL vs NL",
-         url: "https://agl2zq.fubohd.com/foxsportsmx/mono.m3u8?token=5334583b390f4bf9f45cc15660d27d9bc48a06ac-6b-1752641109-1752623109",
+         url: "https://b2zmawnpyww.fubohd.com/disney15/mono.m3u8?token=a845a78d512bfea9f4b6e269cf8d7413d5ecf93d-1b-1752643327-1752625327",
         type: "Tv"
     },
 
