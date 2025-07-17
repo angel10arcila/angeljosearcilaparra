@@ -9,7 +9,7 @@ const mediaFiles = [
     },
  
     {
-        name: "©Mlb - ALL-STARS-GAME - AL vs NL",
+        name: "©Mlb - CIN vs NYM",
         url: "https://dmvudge.fubohd.com/mlb1/mono.m3u8?token=c9109e44de2f6ef073c63a9ade9b28aa257a755e-56-1752641178-1752623178",
         type: "Tv"
     }, 
