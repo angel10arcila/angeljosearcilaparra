@@ -20,8 +20,8 @@ const mediaFiles = [
         type: "Tv"
     },
     {
-        name: "©Mlb - HOU vs SEA",
-        url: "https://edge1caster.pro/hls/hfzljfahzcax29.m3u8?st=RrorLbua-f4EDgjtDkXbd2wY3OyuUZdRCibyw7Ttt5Y&e=1752978473",
+        name: "©Mlb - HOU vs AZ",
+        url: "https://edge1caster.pro/hls/jzabfazkbf27.m3u8?st=CBTQIBA85U8kaKnpM5H3e0TScoQieeLctw4RuxLsRyM&e=1753222202",
         type: "Video"
     },
     {
