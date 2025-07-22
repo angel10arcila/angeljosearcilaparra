@@ -9,8 +9,8 @@ const mediaFiles = [
     },
  
     {
-        name: "©Mlb - CIN vs NYM",
-        url: "https://edge1caster.pro/hls/ihfazugfyjcazich17.m3u8?st=oxsTYKsUAgSnUueRNoeIoHiuUjxWlRTHRq2IP5eLLFY&e=1752961905",
+        name: "©Mlb - LAA vs NYM",
+        url: "https://edge1caster.pro/hls/ojzkajnach21.m3u8?st=C-L8ZRSj9YXdsRJ311YAS41IkFYRSOmRcmtMGKjlR7Q&e=1753221942",
         type: "Tv"
     }, 
 
