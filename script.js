@@ -15,8 +15,8 @@ const mediaFiles = [
     }, 
 
     {
-        name: "©Mlb - NYY vs ATL",
-         url: "https://eastcaster.pro/hls/kjhfzua25.m3u8?st=fxP7h9XDFT_IJcccIi2ok2TlDvU5ud92yD9TTN9-1Ns&e=1752962000",
+        name: "©Mlb - SF vs ATL",
+         url: "https://edge1caster.pro/hls/ijfnakfidch22.m3u8?st=11xXTA5rUIo3o2R9kTiLWD--5wPSF2nH-fHBi20Ac5U&e=1753222101",
         type: "Tv"
     },
     {
