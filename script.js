@@ -32,13 +32,13 @@ const mediaFiles = [
 
     {
         name: "©Space Cityhn",
-        url: "https://tvpass.org/live/sny-sportsnet-new-york-comcast/hd",
+        url: "https://",
         type: "Tv"
     },
    
     {
         name: "©Mlb network HD",
-        url: "https://tvpass.org/live/MLBNetwork/hd",
+        url: "https://",
         type: "Tv"
    },
       
